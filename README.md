@@ -12,8 +12,6 @@ The resumes are maintained in different languages and updated as my professional
 - German
 - French
 
-Additional language versions will be added over time.
-
 ---
 
 ## ⚠️ Warning
