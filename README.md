@@ -4,9 +4,13 @@ This repository contains the public versions of my Curriculum Vitae.
 
 The resumes are maintained in different languages and updated as my professional experience, education and certifications evolve.
 
-## Available versions
+## Available versions (ATS-friendly)
 
-- Spanish (ATS-friendly)
+- English
+- Spanish
+- Italian
+- German
+- French
 
 Additional language versions will be added over time.
 
